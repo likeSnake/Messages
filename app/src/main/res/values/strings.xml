@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lite Messages</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_scheduled">Scheduled</string>
+    <string name="text_msg">Text Message</string>
+    <string name="action_call">Call Phone</string>
+    <string name="menu_conversations_list">Conversations list</string>
+    <string name="menu_unread_conversations">Unread Conversations</string>
+    <string name="menu_scheduled_message">Scheduled message</string>
+    <string name="menu_blacklist">BlackList</string>
+    <string name="menu_invite_friends">Invite friends</string>
+    <string name="menu_privacy">Privacy Policy</string>
+    <string name="title_activity_send_msg">SendMsgActivity</string>
+    <string name="title_activity_contacts">ContactsActivity</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_default">Set Default</string>
+    <string name="title_contact_lately">Recents</string>
+    <string name="title_contact_all">All Contacts</string>
+    <string name="txt_default_set_hint">Non-default SMS app,go to setting</string>
+    <string name="txt_default_set">Setting</string>
+</resources>
